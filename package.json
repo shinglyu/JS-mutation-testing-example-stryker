@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "stryker": "stryker -c stryker.conf.js"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "stryker": "^0.4.3",
+    "stryker-api": "^0.2.0",
+    "stryker-mocha-runner": "^0.1.0"
+  }
+}
