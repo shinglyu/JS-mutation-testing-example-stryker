@@ -1,7 +1,7 @@
 JavaScript Mutation Testing Demo
 =================================
 
-Please refer to this [blog post]() (To be released soon) for explanations.
+Please refer to this [blog post](http://shinglyu.github.io/testing/2016/10/11/Mutation_Testing_in_JavaScript_Using_Stryker.html)  for explanations.
 
 # Setup
 
